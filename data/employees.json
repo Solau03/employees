@@ -1,47 +1,78 @@
 [
- {
- "employeeId": "EMP001",
- "firstName": "Alice",
- "lastName": "Johnson",
- "role": "Software Engineer",
- "department": "Engineering",
- "timeAtCompany": "3 years 2 months",
- "dateOfCreation": "2021-07-15",
- "email": "alice.johnson@example.com",
- "location": "New York, USA",
- "manager": "Robert Smith",
- "status": "Active",
- "salaryBand": "Level 2",
- "skills": ["JavaScript", "React", "Node.js"]
- },
- {
- "employeeId": "EMP002",
- "firstName": "Miguel",
- "lastName": "Santos",
- "role": "Product Manager",
- "department": "Product",
- "timeAtCompany": "1 year 8 months",
- "dateOfCreation": "2023-01-22",
- "email": "miguel.santos@example.com",
- "location": "Madrid, Spain",
- "manager": "Clara Ruiz",
- "status": "Active",
- "salaryBand": "Level 3",
- "skills": ["Agile", "Scrum", "Roadmapping"]
- },
- {
- "employeeId": "EMP003",
- "firstName": "Sophie",
- "lastName": "Tanaka",
- "role": "UX Designer",
- "department": "Design",
- "timeAtCompany": "5 years 6 months",
- "dateOfCreation": "2019-03-11",
- "email": "sophie.tanaka@example.com",
- "location": "Tokyo, Japan",
- "manager": "Hiroshi Nakamura",
- "status": "On Leave",
- "salaryBand": "Level 2",
- "skills": ["Figma", "Wireframing", "Prototyping"]
- }
+  {
+    "employeeId": "EMP001",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "timeAtCompany": "3 years 2 months",
+    "dateOfCreation": "2021-07-15",
+    "email": "alice.johnson@example.com",
+    "location": "New York, USA",
+    "manager": "Robert Smith",
+    "status": "Active",
+    "salaryBand": "Level 2",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "employeeId": "EMP002",
+    "firstName": "Miguel",
+    "lastName": "Santos",
+    "role": "Product Manager",
+    "department": "Product",
+    "timeAtCompany": "1 year 8 months",
+    "dateOfCreation": "2023-01-22",
+    "email": "miguel.santos@example.com",
+    "location": "Madrid, Spain",
+    "manager": "Clara Ruiz",
+    "status": "Active",
+    "salaryBand": "Level 3",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Roadmapping"
+    ]
+  },
+  {
+    "employeeId": "EMP003",
+    "firstName": "Sophie",
+    "lastName": "Tanaka",
+    "role": "UX Designer",
+    "department": "Design",
+    "timeAtCompany": "5 years 6 months",
+    "dateOfCreation": "2019-03-11",
+    "email": "sophie.tanaka@example.com",
+    "location": "Tokyo, Japan",
+    "manager": "Hiroshi Nakamura",
+    "status": "On Leave",
+    "salaryBand": "Level 2",
+    "skills": [
+      "Figma",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "employeeId": "EMP004",
+    "firstName": "Paolo",
+    "lastName": "Toc",
+    "role": "Analista de datos",
+    "department": "Data scince",
+    "timeAtCompany": "16 years 6 months",
+    "dateOfCreation": "2009-09-11",
+    "email": "mevale.vergaa@example.com",
+    "location": "Bogota, colombia ",
+    "manager": "oliv",
+    "status": "On Leave",
+    "salaryBand": "Level 2",
+    "skills": [
+      "Figma",
+      "Wireframing",
+      "Prototyping"
+    ]
+  }
 ]
