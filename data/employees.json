@@ -74,5 +74,22 @@
       "Wireframing",
       "Prototyping"
     ]
+  },
+  {
+    "employeeId": "EMP005",
+    "firstName": "Sebastián",
+    "lastName": "Velez",
+    "role": "Modelador 3D",
+    "department": "Videogames",
+    "email": "sebas@hjbhb.com",
+    "location": "Pereira, Colombia",
+    "status": "Active",
+    "salaryBand": "Level 1",
+    "skills": [
+      "Dibujar no es su fuerte",
+      "Blender"
+    ],
+    "dateOfCreation": "2025-08-01",
+    "timeAtCompany": "0 años 1 meses"
   }
 ]
